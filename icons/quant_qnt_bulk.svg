@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs/>
+  <path fill="white" opacity="0.58" d="M24,0 L0,0 L0,24 L24,24 L24,0 Z"/>
+  <path fill="#292D32" opacity="0.6" d="M21,7 L21,12 L17,14.78 L17,9.23 L21,7 Z"/>
+  <path fill="#292D32" opacity="0.6" d="M12,17.56 L12,22 L3,17 L7,14.77 L7,14.78 L12,17.56 Z"/>
+  <path fill="#292D32" d="M7,9.23 L7,14.77 L3,17 L3,7 L7,9.23 Z"/>
+  <path fill="#292D32" opacity="0.6" d="M12,2 L12,6.44 L7,9.22 L7,9.23 L3,7 L12,2 Z"/>
+  <path fill="#292D32" d="M17,9.23 L17,9.22 L12,6.44 L12,2 L21,7 L17,9.23 Z"/>
+  <path fill="#292D32" d="M17,14.78 L17,19.5 L12,22 L12,17.56 L17,14.78 Z"/>
+  <path fill="#292D32" opacity="0.4" d="M21,17 L21,22 L17,19.5 L17,14.78 L21,17 Z"/>
+  <path fill="#292D32" opacity="0.4" d="M17,9.22 L17,14.78 L12,17.56 L7,14.78 L7,9.22 L12,6.44 L17,9.22 Z"/>
+</svg>
+

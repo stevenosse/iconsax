@@ -1,0 +1,1 @@
+icon_font_generator --from=icons --class-name=Iconsax --out-font=fonts/iconsax.ttf --out-flutter=lib/src/iconsax.dart
